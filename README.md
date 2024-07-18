@@ -1,5 +1,7 @@
 # Tim's GitHub Copilot All-in-One (AIO) Live Training Course
 
+[![Check README Links](https://github.com/timothywarner/copilotaio/actions/workflows/check-readme-links.yml/badge.svg?branch=main)](https://github.com/timothywarner/copilotaio/actions/workflows/check-readme-links.yml)
+
 ## Contact information
 
 - [Tim Warner](mailto:timothywarner316@gmail.com)
