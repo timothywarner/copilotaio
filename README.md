@@ -37,6 +37,11 @@
 - [Microsoft: GitHub Copilot Fundamentals](https://learn.microsoft.com/en-us/training/paths/copilot/)
 - [Prompts, tips, and use cases](https://github.blog/2023-06-20-how-to-write-better-prompts-for-github-copilot/)
 - ["The Ultimate Manual"](https://nira.com/github-copilot/)
+- [Essentials of GitHub Copilot](https://resources.github.com/learn/pathways/copilot/essentials/essentials-of-github-copilot/)
+- [GitHub Copilot 101](https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming)
+- [GitHub learning pathways](https://resources.github.com/learn/pathways/)
+- [GitHub Copilot certification](https://examregistration.github.com/waitlist/copilot)
+-
 
 ## Selected LLM interfaces and applications
 
