@@ -16,7 +16,6 @@
 - [Responsible AI white paper](https://blogs.microsoft.com/wp-content/uploads/prod/sites/5/2023/02/The-new-Bing-Our-approach-to-Responsible-AI.pdf)
 - [OpenAI safety & responsibility](https://openai.com/safety)
 
-
 ## GitHub Copilot
 
 - [Marketing page](https://github.com/features/copilot)
@@ -32,7 +31,6 @@
 - [Blog](https://github.blog/)
 - [GitHub Copilot X](https://github.blog/2023-03-22-github-copilot-x-the-ai-powered-developer-experience/)
 - [GitHub Next](https://githubnext.com/)
-
 - [Main docs](https://docs.github.com/copilot)
 - [Quickstart](https://docs.github.com/en/copilot/quickstart)
 - ["The Ultimate Manual"](https://nira.com/github-copilot/)
