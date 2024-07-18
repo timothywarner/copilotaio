@@ -2,6 +2,8 @@
 
 [![Check README Links](https://github.com/timothywarner/copilotaio/actions/workflows/check-readme-links.yml/badge.svg?branch=main)](https://github.com/timothywarner/copilotaio/actions/workflows/check-readme-links.yml)
 
+<img src="./images/github-social-preview.png" width="400">
+
 ## Contact information
 
 - [Tim Warner](mailto:timothywarner316@gmail.com)
