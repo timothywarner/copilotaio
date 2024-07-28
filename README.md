@@ -16,6 +16,12 @@
 
 - [alekspopovic/simple-react-timeline](https://github.com/alekspopovic/simple-react-timeline)
 
+## Decent tutorials/demo app projects
+
+- [Mastering GitHub Copilot for Paired Programming](https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming)
+- [Python Projects for Beginners](https://github.com/techwithtim/5-Python-Projects-For-Beginners)
+- [Essentials of GitHub Copilot](https://resources.github.com/learn/pathways/copilot/essentials/essentials-of-github-copilot/)
+
 ## GitHub Copilot marketing
 
 - [Marketing page](https://github.com/features/copilot)
