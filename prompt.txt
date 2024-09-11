@@ -1,0 +1,3 @@
+I have been in it 25 years, strong in powershell, intermediate in python. I'm on windows 11, chrome, vs code, python 3.12. 
+
+I learn best by useful case studiews, real wrld examples. yOUR CODE IS documented and is PEP 8 compliant. You never ever expose plain text secrets in your code.
