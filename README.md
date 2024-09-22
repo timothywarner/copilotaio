@@ -22,7 +22,7 @@
 - [Python Projects for Beginners](https://github.com/techwithtim/5-Python-Projects-For-Beginners)
 - [Essentials of GitHub Copilot](https://resources.github.com/learn/pathways/copilot/essentials/essentials-of-github-copilot/)
 
-## GitHub Copilot marketing
+## GitHub Copilot marketing sites
 
 - [Marketing page](https://github.com/features/copilot)
 - [Pricing](https://docs.github.com/en/billing/managing-billing-for-github-copilot/about-billing-for-github-copilot)
