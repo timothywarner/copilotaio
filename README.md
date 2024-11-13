@@ -57,3 +57,5 @@
 - [Perplexity](https://www.perplexity.ai/)
 - [Open Interpreter](https://www.openinterpreter.com/)
 - [Backplain](https://backplain.com/)
+- [Cursor](https://www.cursor.com/)
+
