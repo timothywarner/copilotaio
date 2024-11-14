@@ -1,0 +1,13 @@
+version: 2
+updates:
+  - package-ecosystem: "npm"
+    directory: "/"
+    schedule:
+      interval: "weekly"
+      day: "wednesday"
+      time: "09:30"
+      timezone: "America/Chicago"
+    commit-message:
+      prefix: "fix(deps)"
+    pull-request-branch:
+      prefix: "dependabot/npm_and_yarn/"
